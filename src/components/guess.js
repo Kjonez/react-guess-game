@@ -69,7 +69,9 @@ class Guess extends Component {
 		console.log('yasss');
 		
 	}
-	
+
+
+
 	render(){
 		const { outcome, history, count } = this.state;
 
